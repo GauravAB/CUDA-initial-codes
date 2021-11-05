@@ -1,0 +1,1 @@
+﻿E:\Dev\CodeBase\Myprojects\Old projects\Projects\CUDA\Fractals\Fractals\Fractals.vcxproj(63,5): error MSB4019: The imported project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\CUDA 8.0.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
